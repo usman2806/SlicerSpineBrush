@@ -2,6 +2,8 @@
 
 **A brush and eraser for tracing bone in 3D Slicer.**
 
+GitHub: <https://github.com/usman2806/SlicerSpineBrush>
+
 Spine Brush is one tool in the Segment Editor. It is a brush and an eraser in one. You set a single number, the bone threshold (about 200 HU). The brush then paints only on bone, and the eraser removes only soft tissue. It was made for tracing vertebrae on spine CT.
 
 ---
@@ -183,3 +185,5 @@ print(slicer.modules.segmenteditor.widgetRepresentation().self().editor.effectBy
 ## 8. License and credits
 
 BSD 3-Clause. See [LICENSE](LICENSE). Made by Usman Haider.
+
+Source code and updates: <https://github.com/usman2806/SlicerSpineBrush>
